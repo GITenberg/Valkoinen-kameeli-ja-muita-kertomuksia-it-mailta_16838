@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6321
     wikipedia: http://fi.wikipedia.org/wiki/Valter_Juva
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16838#Valkoinen-kameeli-ja-muita-kertomuksia-it-mailta
 gutenberg_issued: '2005-10-09'
 gutenberg_type: Text
 identifiers:
